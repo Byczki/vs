@@ -39,3 +39,6 @@ Instrukcja IF
  PRINT 'Wygrałeś nic'
  ELSE  
  PRINT 'Wygrałeś nic';
+
+jrb
+jrb2
