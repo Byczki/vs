@@ -13,3 +13,6 @@ https://code.visualstudio.com/docs/?dv=win32user
 6. Zaloguj się do jakiegoś konta github/microsoft
 7. Naciśnij CTRL+Shift+P i wpisz live share join
 8. Wklej link. To wszystko.
+
+## Git
+http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code
